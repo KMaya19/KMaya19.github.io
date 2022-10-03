@@ -2,11 +2,21 @@
 ## h2 Heading
 ### h3 Heading
 
-**This is bold text**
+## Horizontal Rules
+___
+
+## Emphasis
+
+**This is a bold text**
+__This is a bold test__
 *This text is italicized*
+_This is italis text_
 **This text is _extremely_ important**
+
 ***All this text is important***
+
 <sub>This is a subscript text</sub>
+
 <sup>This is a superscript text</sup>
 
 > Text that is a quote
