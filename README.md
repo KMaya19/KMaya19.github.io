@@ -8,9 +8,9 @@ ___
 ## Emphasis
 
 **This is a bold text**
-__This is a bold test__
+
 *This text is italicized*
-_This is italis text_
+
 **This text is _extremely_ important**
 
 ***All this text is important***
@@ -20,9 +20,13 @@ _This is italis text_
 <sup>This is a superscript text</sup>
 
 > Text that is a quote
+
 git status
+
 git add
+
 git commit
+
 ```
 `rgb(R,G,B)`	`rgb(9, 105, 218)`
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
