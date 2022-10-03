@@ -21,12 +21,8 @@ ___
 
 > Text that is a quote
 
-git status
 
-git add
+`#ffffff`
+`rgb(9, 105, 218)`
 
-git commit
-
-```
-`rgb(R,G,B)`	`rgb(9, 105, 218)`
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
