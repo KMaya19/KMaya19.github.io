@@ -22,7 +22,7 @@ ___
 > Text that is a quote
 
 
-`#ffffff`
+`#0d1117`
 
 `rgb(9, 105, 218)`
 
